@@ -1,7 +1,6 @@
 import React from "react"
 import DropDown, { IStyle } from "./DropDown"
 import { aboutOptions, productsOptions, technologyOptions, infrastructureOptions, transparencyOptions, communityOptions } from "./DropDownContents"
-// import logo from "../../assets/img/logo.png"
 
 const AppBar: React.FC = () => {
 
