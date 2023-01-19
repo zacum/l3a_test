@@ -2,7 +2,7 @@
 
 ## Project Requirements
 
-1. Buld dashboard focusing on menu appbar.
+1. Build dashboard focusing on menu appbar.
 2. Deploy website to IPFS.
 
 ## Available Scripts
